@@ -28,7 +28,6 @@
 
 <h3 align="left">GitHub Stats:</h3> <p align="left"> 
 </a> <img align="left" src="https://github-readme-stats.vercel.app/api?username=christophler&show_icons=true&locale=en&theme=chartreuse-dark&hide=stars" alt="christophler" />
-<br>
 </a> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christophler&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="christophler" />
 </a> </p>
 
