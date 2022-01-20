@@ -22,8 +22,11 @@
 </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
 </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a> <a href="https://www.notion.so/product" target="_blank" rel="noreferrer"> <img src="https://github.com/Christophler/Christophler/blob/main/images/Notion.png" alt="notion" width="40" height="40"/>
+</a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Christophler/Christophler/blob/main/images/Tableau-Emblem.png" alt="tableau" width="40" height="40"/>
 </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Christophler/Christophler/blob/main/images/vscode.png" alt="vscode" width="40" height="40"/>
 </a> </p>
 
 <h3 align="left">GitHub Stats:</h3> <p align="left"> 
