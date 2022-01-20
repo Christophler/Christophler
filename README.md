@@ -31,6 +31,8 @@
 </a> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christophler&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="christophler" />
 </a> </p>
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <h3 align="left">Connect with me:</h3> <p align="left">
 </a> <a href="https://linkedin.com/in/chrisdlaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chrisdlaw" height="30" width="40" />
 </a> <a href="mailto:christopher.law0215@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/2048px-Circle-icons-mail.svg.png" alt="christopher.law0215@gmail.com" height="40" width="40" />
