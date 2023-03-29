@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Christopher! <img src="https://media.giphy.com/media/TFZpl4btFODjSbwAKS/giphy.gif" alt="hand waving GIF" width="40" height="40"/></h1>
-<h3 align="left">I'm a 2nd year computer engineering student at the University of Guelph. I am an avid learner, always looking for new ways to develop myself. Feel free to reach out to me at any time to talk about anything!</h3>
+<h3 align="left">I'm a 3rd year computer engineering student at the University of Guelph. I am an avid learner, always looking for new ways to develop myself. Feel free to reach out to me at any time to talk about anything!</h3>
 
-- 🌱 I’m currently learning: **How to create an API using Node.js, Mongo.db, and Express.**
+- 🌱 I’m currently learning: **How to create a web-app using the MERN stack.**
 
 <h3 align="left">Languages:</h3> <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -15,6 +15,8 @@
 </a> </p>
 
 <h3 align="left">Tools:</h3> <p align="left"> 
+</a> <a href="https://azure.microsoft.com/en-ca/" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" alt="Microsoft Azure" width="40" height="40"/> 
+</a> <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Emblem.png" alt="JIRA" width="40" height="40"/> 
 </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Christophler/Christophler/blob/main/images/Flask_Python.png" alt="flask" width="40" height="40"/> 
 </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -27,6 +29,12 @@
 </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Christophler/Christophler/blob/main/images/vscode.png" alt="vscode" width="40" height="40"/>
+</a> </p>
+
+<h3 align="left">Certifications:</h3> <p align="left"> 
+</a> <a href="https://www.credly.com/badges/3885cddf-3fc5-4a57-af46-9cc2bb78ee6f/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZ-900" width="40" height="40"/> 
+</a> <a href="https://www.credly.com/badges/e2a66a39-23f9-41c4-aa4a-c2a61f79d165/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="AI-900" width="40" height="40"/> 
+</a> <a href="https://www.credly.com/badges/3237507b-9f86-4798-b25e-9ac0d3055011/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="DP-900" width="40" height="40"/> 
 </a> </p>
 
 <h3 align="left">GitHub Stats:</h3> <p align="left"> 
