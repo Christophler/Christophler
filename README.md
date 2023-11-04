@@ -1,7 +1,10 @@
 <h1 align="center">Hey there, I'm Christopher! <img src="https://media.giphy.com/media/TFZpl4btFODjSbwAKS/giphy.gif" alt="hand waving GIF" width="40" height="40"/></h1>
 <h3 align="left">I'm a 4rth year computer engineering student at the University of Guelph. I am an avid learner, always looking for new ways to develop myself. Feel free to reach out to me at any time to talk about anything!</h3>
 
-- 🌱 I’m currently working on creating: **Calendrio: A discord bot that reminds you when you have an important due date approaching.**
+- 🔭 I’m currently working on [Calendrio](https://github.com/Christophler/Calendrio/tree/main): A discord bot that reminds you when you have an important due date approaching.
+
+- 🌱 I’m currently learning **How to create a web-app using HTML, CSS and JavaScript.**
+
 
 <h3 align="left">Languages:</h3> <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
